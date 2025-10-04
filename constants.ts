@@ -158,6 +158,7 @@ export const WORDS: string[] = [
   'Exist',
   'Exit',
   'Extra',
+  'Fun',
   'Yank',
   'Yawn',
   'Yearn',
